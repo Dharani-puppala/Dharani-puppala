@@ -42,6 +42,14 @@ An AI-powered voice assistant developed using speech recognition, pyttsx3, and O
 
 
 
+### Fantasy Cricket League App - iOS (Swift, C)
+A web application for sports lovers to watch cricket and participate in fantasy leagues, mimicking real-world tournaments with player management. Achievements include:
+- Implemented statistical tracking using **mockable.ios**, achieving 95% accuracy in player performance and statistics.
+- Unified tournament registration forms with **Eureka** and **Google Sign-In** authorization, reducing signup time by 40%.
+- Increased user registrations by 30% and promoted user engagement by 35% through streamlined registration and user-friendly interface.
+
+
+
 ---
 
 ## Professional Experience
@@ -75,9 +83,6 @@ Feel free to explore my repositories and projects. If you'd like to collaborate 
 
 ---
 
-## GitHub Profile
 
 
-
----
 
