@@ -2,7 +2,7 @@
 
 **Contact Information**  
 📧 Email: [dcode2b7@gmail.com](mailto:dcode2b7@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/dharani-puppala-80785a28b](https://www.linkedin.com/in/dharani-puppala-80785a28b/)  
+🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/dharani-data/)  
 📞 Phone: +1 (660) 528-2075  
 
 ---
